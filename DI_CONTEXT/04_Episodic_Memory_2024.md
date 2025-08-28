@@ -11,7 +11,8 @@
 ## 📋 기본 정보
 - **저자**: arXiv 2024 팀
 - **발표**: arXiv 2024.09 (Sept 2024)
-- **논문 링크**: [https://arxiv.org/abs/2409.11754](https://arxiv.org/abs/2409.11754)
+- **논문 링크**: [https://arxiv.org/abs/2409.17702](https://arxiv.org/abs/2409.17702)
+- **프로젝트 페이지**: [https://hierarchical-emv.github.io/](https://hierarchical-emv.github.io/)
 - **핵심 기여**: 계층적 메모리 구조로 선택적 검색 실현
 
 ---
