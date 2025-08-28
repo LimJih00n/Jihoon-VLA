@@ -34,17 +34,36 @@
 
 ### 🚀 추가 중요 논문
 
-6. **[Helix (2025)](./06_Helix_2025.md)** ⭐⭐⭐
+6. **Helix (2025)** ⭐⭐⭐
    - Dual System Architecture (S1: 200Hz, S2: 7-9Hz)
    - Figure AI
+   - **논문 링크**: [https://arxiv.org/abs/2502.02074](https://arxiv.org/abs/2502.02074)
 
-7. **[Pi-Zero (2024)](./07_Pi0_2024.md)** ⭐⭐⭐
+7. **[Pi-Zero (2024)](./Flow_RAG_Papers/Phase1_01_Pi0_2024.md)** ⭐⭐⭐
    - Flow Matching for 50Hz Real-time Control
    - Physical Intelligence
+   - **논문 링크**: [https://arxiv.org/abs/2410.24164](https://arxiv.org/abs/2410.24164)
 
-8. **[RAM (2024)](./08_RAM_2024.md)** ⭐⭐⭐
+8. **RAM (2024)** ⭐⭐⭐
    - Retrieval-Based Affordance Transfer
    - CoRL 2024 Oral
+   - **논문 링크**: [https://arxiv.org/abs/2407.08450](https://arxiv.org/abs/2407.08450)
+
+### 📄 기타 참고 논문들
+
+9. **OpenVLA (2024)**
+   - Open-source VLA, 7B parameters
+   - **논문 링크**: [https://arxiv.org/abs/2406.09246](https://arxiv.org/abs/2406.09246)
+   - **프로젝트**: [https://openvla.github.io/](https://openvla.github.io/)
+
+10. **RT-1 & RT-2 (2023)**
+    - Google's Robotics Transformer
+    - **RT-1**: [https://arxiv.org/abs/2212.06817](https://arxiv.org/abs/2212.06817)
+    - **RT-2**: [https://arxiv.org/abs/2307.15818](https://arxiv.org/abs/2307.15818)
+
+11. **Octo (2024)**
+    - Open-source generalist robot policy
+    - **논문 링크**: [https://arxiv.org/abs/2405.12213](https://arxiv.org/abs/2405.12213)
 
 ---
 

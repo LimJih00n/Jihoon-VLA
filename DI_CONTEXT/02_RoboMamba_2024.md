@@ -11,6 +11,7 @@
 ## 📋 기본 정보
 - **저자**: NeurIPS 2024 팀
 - **발표**: NeurIPS 2024 (June 2024)
+- **논문 링크**: [https://arxiv.org/abs/2406.04339](https://arxiv.org/abs/2406.04339)
 - **핵심 기여**: VLA에 State Space Model 최초 적용으로 효율성 혁명
 
 ---
