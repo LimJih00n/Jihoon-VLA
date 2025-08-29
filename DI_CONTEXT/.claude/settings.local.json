@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Read(/mnt/c/Users/jihoo/Desktop/jihoon_work_forder/07_VLA-Research/**)",
+      "Read(/mnt/c/Users/jihoo/Desktop/jihoon_work_forder/07_VLA-Research/Research/**)",
+      "Read(/mnt/c/Users/jihoo/Desktop/jihoon_work_forder/07_VLA-Research/Study/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
